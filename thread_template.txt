@@ -26,7 +26,8 @@ Project Lighthouse is a custom rom with an objective to keep things as smooth an
 AOSP
 LineageOS
 Evolution-X
-Many More from where cherry-picked from
+POSP
+And Many More~
 [/B]
 
 
@@ -34,19 +35,20 @@ Many More from where cherry-picked from
 
 
 [B][SIZE="5"][URL="https://DownloadLinkGoesHere"]ROM Download[/URL]
+[B]Dont flash GApps , already included[/B]
 
-
-[SIZE="5"][B][U]WHAT WORKS?[/U][/B][/SIZE]
-[LIST]
-[*]Almost everything
-[/LIST]
-
-[SIZE="5"][B][U]WHAT DOESN'T WORK?[/U][/B][/SIZE]
+[CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/KnownIssues.png?raw=true[/IMG]
 [LIST]
 [*]You tell me
 [/LIST]
 Be sure to include a log! : [URL="https://forum.xda-developers.com/showthread.php?t=2774386"]How to take logs[/URL]
 
+[CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/Installation.png?raw=true[/IMG]
+
+[CODE][SIZE="4"]
+  Clean Flash (Recommended) - Reboot to recovery, Wipe Data/Cache/System and flash the Rom for your device.
+  Dirty Flash - Reboot to recovery, Wipe System/Cache , flash the Rom and reboot system :p
+[/SIZE][/CODE]
 
 [CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/Source.png?raw=true[/IMG]
 
