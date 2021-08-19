@@ -13,7 +13,7 @@
 [CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/AboutUS.png?raw=true[/IMG]
 
 [B]
-Project Lighthouse is a custom rom with an objective to keep things as smooth and optimized as possible , but without missing out on features that everyone loves , including pixel goodies , but with the option of building as vanilla as well.
+Project Lighthouse is a custom rom with an objective to keep things as smooth and optimized as possible , but without missing out on features that everyone loves , including pixel goodies , but with the option of vanilla as well.
 
 [URL="https://github.com/lighthouse-os"]Github[/URL]
 [URL="https://t.me/project_lighthouse_os"]Telegram Discussion Chat[/URL]
@@ -35,7 +35,7 @@ And Many More~
 
 
 [B][SIZE="5"][URL="https://DownloadLinkGoesHere"]ROM Download[/URL]
-[B]Dont flash GApps , already included[/B]
+
 
 [CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/KnownIssues.png?raw=true[/IMG]
 [LIST]
