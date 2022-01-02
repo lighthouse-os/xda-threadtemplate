@@ -1,6 +1,7 @@
 [CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/LightHouseBanner.png?raw=true[/IMG]
 
-[CODE][SIZE="4"]/*
+[CODE]
+/*
  * Your warranty is now void.
  *
  * I am not responsible for bricked devices, dead SD cards,
@@ -8,12 +9,13 @@
  * do some research if you have any concerns about features included in this ROM
  * before flashing it! YOU are choosing to make these modifications, and if
  * you point the finger at me for messing up your device, I will laugh at you.
- */[/SIZE][/CODE]
+ */
+[/CODE]
 
 [CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/AboutUS.png?raw=true[/IMG]
 
 [B]
-Project Lighthouse is a custom rom with an objective to keep things as smooth and optimized as possible , but without missing out on features that everyone loves , including pixel goodies , but with the option of vanilla as well.
+Project Lighthouse is a custom rom with an objective to keep things as clean and smooth as possible , but without missing out on features that everyone loves , including pixel goodies,  as well as an option for vanilla as well.
 
 [URL="https://github.com/lighthouse-os"]Github[/URL]
 [URL="https://t.me/project_lighthouse_os"]Telegram Discussion Chat[/URL]
@@ -45,10 +47,10 @@ Be sure to include a log! : [URL="https://forum.xda-developers.com/showthread.ph
 
 [CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/Installation.png?raw=true[/IMG]
 
-[CODE][SIZE="4"]
+[CODE]
   Clean Flash (Recommended) - Reboot to recovery, Wipe Data/Cache/System and flash the Rom for your device.
   Dirty Flash - Reboot to recovery, Wipe System/Cache , flash the Rom and reboot system :p
-[/SIZE][/CODE]
+[/CODE]
 
 [CENTER][IMG]https://github.com/lighthouse-os/xda-threadtemplate/blob/main/Source.png?raw=true[/IMG]
 
